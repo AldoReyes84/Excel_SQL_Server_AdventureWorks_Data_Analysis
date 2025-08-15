@@ -6,7 +6,7 @@ Go back to [Data Analysis Project](https://github.com/AldoReyes84/Data-Analisys_
 
 Create a Data Model from SQL Server  
 
-<img width="893" height="423" alt="image" src="https://github.com/user-attachments/assets/d4e3afe1-8e62-4118-86de-c06be068617f" />
+<img width="447" height="211" alt="image" src="https://github.com/user-attachments/assets/d4e3afe1-8e62-4118-86de-c06be068617f" />
 
 provide the ServerName and the DatabaseName
 
