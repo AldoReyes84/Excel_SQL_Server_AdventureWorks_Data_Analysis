@@ -22,7 +22,7 @@ Acept the rest of the procedure and closer the **Power Pivot** Seccion
 
 Insert a Pivot Table from the Data Model
 
-<img width="261" height="263" alt="image" src="https://github.com/user-attachments/assets/776aade4-7b2b-402f-b581-8d145c2e8af3" />
+<img width="241" height="243" alt="image" src="https://github.com/user-attachments/assets/776aade4-7b2b-402f-b581-8d145c2e8af3" />
 
 Create Pivot tables for 
 
