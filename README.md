@@ -14,11 +14,11 @@ provide the ServerName and the DatabaseName
 
 Select **FactResellersSales** and all related tables 
 
-<img width="545" height="589" alt="image" src="https://github.com/user-attachments/assets/5614413b-ae4f-47c1-8d78-4a6c6f914de2" />
+<img width="520" height="536" alt="image" src="https://github.com/user-attachments/assets/5614413b-ae4f-47c1-8d78-4a6c6f914de2" />
 
 Acept the rest of the procedure and closer the **Power Pivot** Seccion 
 
-<img width="1008" height="696" alt="image" src="https://github.com/user-attachments/assets/813143c3-4745-477a-86c8-32a11ed42b94" />
+<img width="504" height="348" alt="image" src="https://github.com/user-attachments/assets/813143c3-4745-477a-86c8-32a11ed42b94" />
 
 Insert a Pivot Table from the Data Model
 
