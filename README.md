@@ -4,11 +4,10 @@ Go back to [Data Analysis Project](https://github.com/AldoReyes84/Data-Analisys_
 
 # Excel_SQL_Server_AdventureWorks_Data_Analysis
 
-Lets connect to our SQL Server Database from Excel
+Create a Data Model from SQL Server providing the ServerName and the DatabaseName and importing FactSalesResellers table
 
-Create a Data Model from SQL Server 
+<img width="893" height="423" alt="image" src="https://github.com/user-attachments/assets/d4e3afe1-8e62-4118-86de-c06be068617f" />
 
-<img width="1026" height="881" alt="image" src="https://github.com/user-attachments/assets/4b50181c-b4ca-4fd4-9bc0-b7b3b6d9247e" />
 
 <img width="985" height="839" alt="image" src="https://github.com/user-attachments/assets/182325eb-caba-4bec-8a7d-f726081fa61c" />
 
