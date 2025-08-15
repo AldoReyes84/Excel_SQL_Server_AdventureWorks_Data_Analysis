@@ -35,3 +35,4 @@ Create Pivot tables for
 
 <img width="1893" height="768" alt="image" src="https://github.com/user-attachments/assets/095bb3d9-c07d-48a4-a9b2-b9c666fda94c" />
 
+The interpretation of these results are addresserd in the [Data Analysis Project/FactResellersSales_Table](https://github.com/AldoReyes84/Data-Analisys_For-AdventureWorksDW2022_SQL_PowerBI_Python_Excel/tree/main#factresellerssales-table) 
