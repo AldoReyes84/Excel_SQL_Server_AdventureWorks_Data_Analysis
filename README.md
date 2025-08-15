@@ -10,7 +10,7 @@ Create a Data Model from SQL Server
 
 provide the ServerName and the DatabaseName
 
-<img width="550" height="593" alt="image" src="https://github.com/user-attachments/assets/d61e3baf-5687-4e2a-b8f5-564cf7958a77" />
+<img width="520" height="563" alt="image" src="https://github.com/user-attachments/assets/d61e3baf-5687-4e2a-b8f5-564cf7958a77" />
 
 Select **FactResellersSales** and all related tables 
 
